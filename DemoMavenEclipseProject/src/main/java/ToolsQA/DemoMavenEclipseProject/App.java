@@ -20,6 +20,7 @@ public class App
     	
     		String appTitle = driver.getTitle();
     		System.out.println("Application title is :: "+appTitle);
+    		System.out.println("Application title is 2 :: "+appTitle);
     		driver.quit();
     	
     }
