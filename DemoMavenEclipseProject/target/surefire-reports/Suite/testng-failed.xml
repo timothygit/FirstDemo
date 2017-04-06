@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="ToolsQA.DemoMavenEclipseProject.TestAAATwo">
+        <methods>
+          <include name="testEasy2"/>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- ToolsQA.DemoMavenEclipseProject.TestAAATwo -->
+      <class name="ToolsQA.DemoMavenEclipseProject.TestAAA">
+        <methods>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- ToolsQA.DemoMavenEclipseProject.TestAAA -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

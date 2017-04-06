@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="17629" started-at="2016-07-02T23:34:58Z" finished-at="2016-07-02T23:35:16Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="17629" started-at="2016-07-02T23:34:58Z" finished-at="2016-07-02T23:35:16Z">
+      <class name="ToolsQA.DemoMavenEclipseProject.TestAAA">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:ToolsQA.DemoMavenEclipseProject.TestAAA@1753acfe]" name="beforeTest" is-config="true" duration-ms="2755" started-at="2016-07-02T16:34:58Z" finished-at="2016-07-02T16:35:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:ToolsQA.DemoMavenEclipseProject.TestAAATwo@3a82f6ef]" name="beforeTest" is-config="true" duration-ms="1231" started-at="2016-07-02T16:35:01Z" finished-at="2016-07-02T16:35:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testEasy()[pri:0, instance:ToolsQA.DemoMavenEclipseProject.TestAAA@1753acfe]" name="testEasy" duration-ms="10170" started-at="2016-07-02T16:35:02Z" finished-at="2016-07-02T16:35:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEasy -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:ToolsQA.DemoMavenEclipseProject.TestAAA@1753acfe]" name="afterTest" is-config="true" duration-ms="1043" started-at="2016-07-02T16:35:14Z" finished-at="2016-07-02T16:35:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:ToolsQA.DemoMavenEclipseProject.TestAAATwo@3a82f6ef]" name="afterTest" is-config="true" duration-ms="743" started-at="2016-07-02T16:35:15Z" finished-at="2016-07-02T16:35:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- ToolsQA.DemoMavenEclipseProject.TestAAA -->
+      <class name="ToolsQA.DemoMavenEclipseProject.TestAAATwo">
+        <test-method status="PASS" signature="testEasy2()[pri:0, instance:ToolsQA.DemoMavenEclipseProject.TestAAATwo@3a82f6ef]" name="testEasy2" duration-ms="1661" started-at="2016-07-02T16:35:12Z" finished-at="2016-07-02T16:35:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEasy2 -->
+      </class> <!-- ToolsQA.DemoMavenEclipseProject.TestAAATwo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
